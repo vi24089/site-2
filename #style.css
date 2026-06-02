@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+      background-color:#94c8d8;
+      height: 100%;
+}
+
+.capa{
+    width: 100%;
+    object-fit: cover;
+    height: 400px; /* mudar */
+
+}
+
+.infoHeader {
+    padding-top: 15px;
+    background-color: black;
+}
